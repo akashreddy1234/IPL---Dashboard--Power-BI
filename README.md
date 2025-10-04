@@ -37,11 +37,13 @@ This project provides a complete analytical view of IPL data, allowing users to 
 ## 🖼️ Screenshots
 
 *(Add screenshots of your dashboard visuals here)*
-
+Complete Dashboard
 <img width="1447" height="799" alt="image" src="https://github.com/user-attachments/assets/57dba94d-99f3-4de9-93b6-fda6deb39192" />
 
+Points Table
 <img width="602" height="465" alt="image" src="https://github.com/user-attachments/assets/133b6202-7354-453c-97d8-767db2e466f3" />
-  
+
+Player Stats  
 <img width="610" height="475" alt="image" src="https://github.com/user-attachments/assets/03988c77-0a76-4434-b042-25f5504a7e28" />
 
 
